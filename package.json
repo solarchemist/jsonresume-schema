@@ -1,6 +1,6 @@
 {
   "name": "resume-schema",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "JSON Resume Schema",
   "main": "validator.js",
   "scripts": {
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jsonresume/resume-schema.git"
+    "url": "git://github.com/solarchemist/jsonresume-schema.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jsonresume/resume-schema/issues"
+    "url": "https://github.com/solarchemist/jsonresume-schema/issues"
   },
   "files": [
     "sample.resume.json",

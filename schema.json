@@ -312,6 +312,14 @@
             "description": "e.g. http://www.computer.org.example.com/csdl/mags/co/1996/10/rx069-abs.html",
             "format": "uri"
           },
+          "author":{
+            "type": "string",
+            "description": "The author or authors of this publication, as a single string"
+          },
+          "doi":{
+            "type": "string",
+            "description": "The DOI of the publication"
+          },
           "summary": {
             "type": "string",
             "description": "Short summary of publication. e.g. Discussion of the World Wide Web, HTTP, HTML."

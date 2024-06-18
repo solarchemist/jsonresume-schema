@@ -47,6 +47,22 @@ The JSON Resume schema is available from:
 require("resume-schema").schema;
 ```
 
+
+### Publish this schema for local testing
+
+It is not possible to `npm run build` (`missing script "build"`) and while
+`npm pack` works, it is not necessary.
+
+Just copy the following files to our local development folder's `node_modules/` tree:
+```
+cp -a package.json schema.json validator.js /media/bay/taha/sites/cv/node_modules/resume-schema/
+```
+
++ https://medium.com/@debshish.pal/publish-a-npm-package-locally-for-testing-9a00015eb9fd
++ https://unix.stackexchange.com/questions/11018/how-to-choose-directory-name-during-untarring
+
+
+
 ### Contribute
 
 We encourage anyone who's interested in participating in the formation of this standard to join the discussions [here on GitHub](https://github.com/jsonresume/resume-schema/issues). Also feel free to fork this project and submit new ideas to add to the JSON Resume Schema standard. To make sure all formatting is kept in check, please install the [EditorConfig plugin](http://editorconfig.org/) for your editor of choice.
