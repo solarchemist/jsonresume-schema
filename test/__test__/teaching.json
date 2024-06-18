@@ -1,0 +1,120 @@
+{
+   "teachingValid": {
+     "teaching": []
+   },
+   "teachingInvalid": {
+     "teaching": null
+   },
+   "nameValid": {
+     "teaching": [
+       {
+         "name": "Laboratory teaching assistant"
+       }
+     ]
+   },
+   "nameInvalid": {
+     "teaching": [
+       {
+         "name": null
+       }
+     ]
+   },
+   "institutionValid": {
+     "teaching": [
+       {
+         "institution": "Uppsala University"
+       }
+     ]
+   },
+   "institutionInvalid": {
+     "teaching": [
+       {
+         "institution": null
+       }
+     ]
+   },
+   "startDateValid": {
+      "teaching": [
+        {
+          "startDate": "2011-06-01"
+        }
+      ]
+    },
+    "startDateValid2": {
+      "teaching": [
+        {
+          "startDate": "2011-06"
+        }
+      ]
+    },
+    "startDateValid3": {
+      "teaching": [
+        {
+          "startDate": "2011"
+        }
+      ]
+    },
+    "startDateInvalid": {
+      "teaching": [
+        {
+          "startDate": null
+        }
+      ]
+    },
+    "endDateValid": {
+      "teaching": [
+        {
+          "endDate": "2014-01-01"
+        }
+      ]
+    },
+    "endDateValid2": {
+      "teaching": [
+        {
+          "endDate": "2014-01"
+        }
+      ]
+    },
+    "endDateValid3": {
+      "teaching": [
+        {
+          "endDate": "2014"
+        }
+      ]
+    },
+    "endDateInvalid": {
+      "teaching": [
+        {
+          "endDate": null
+        }
+      ]
+    },
+   "urlValid": {
+     "teaching": [
+       {
+         "url": "https://github.com/solarchemist/rfps"
+       }
+     ]
+   },
+   "urlInvalid": {
+     "teaching": [
+       {
+         "url": null
+       }
+     ]
+   },
+   "summaryValid": {
+     "teaching": [
+       {
+         "summary": "Postgraduate R programming course"
+       }
+     ]
+   },
+   "summaryInvalid": {
+     "teaching": [
+       {
+         "summary": null
+       }
+     ]
+   }
+ }
