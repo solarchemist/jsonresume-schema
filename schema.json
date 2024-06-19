@@ -494,6 +494,10 @@
             "format": "uri",
             "description": "e.g. http://www.computer.org/csdl/mags/co/1996/10/rx069-abs.html"
           },
+          "doi":{
+            "type": "string",
+            "description": "The DOI of the project, e.g., 10.5281/zenodo.8034780"
+          },
           "roles": {
             "type": "array",
             "description": "Specify your role on this project or in company",
