@@ -173,6 +173,14 @@
           "endDate": {
             "$ref": "#/definitions/iso8601"
           },
+          "multiDates": {
+            "type": "array",
+            "description": "Multiple dates (please don't use this in combination with startDate/endDate)",
+            "additionalItems": false,
+            "items": {
+              "$ref": "#/definitions/iso8601"
+            }
+          },
           "summary": {
             "type": "string",
             "description": "Give an overview of your responsibilities at the company"
@@ -513,7 +521,7 @@
           },
           "type": {
             "type": "string",
-            "description": " e.g. 'volunteering', 'presentation', 'talk', 'application', 'conference'"
+            "description": " e.g. 'presentation', 'talk', 'application', 'conference'"
           }
         }
       }
