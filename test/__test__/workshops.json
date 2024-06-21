@@ -1,0 +1,216 @@
+{
+  "workshopsValid": {
+    "workshops": []
+  },
+  "workshopsInvalid": {
+    "workshops": null
+  },
+  "nameValid": {
+    "workshops": [
+      {
+        "name": "Miss Direction"
+      }
+    ]
+  },
+  "nameInvalid": {
+    "workshops": [
+      {
+        "name": null
+      }
+    ]
+  },
+  "locationValid": {
+    "workshops": [
+      {
+        "location": "A mapping engine that misguides you"
+      }
+    ]
+  },
+  "locationInvalid": {
+    "workshops": [
+      {
+        "summary": null
+      }
+    ]
+  },
+  "summaryValid": {
+    "workshops": [
+      {
+        "summary": "A mapping engine that misguides you"
+      }
+    ]
+  },
+  "summaryInvalid": {
+    "workshops": [
+      {
+        "summary": null
+      }
+    ]
+  },
+  "highlightsValid": {
+    "workshops": [
+      {
+        "highlights": []
+      }
+    ]
+  },
+  "highlightsInvalid": {
+    "workshops": [
+      {
+        "highlights": null
+      }
+    ]
+  },
+  "highlightsItemValid": {
+    "workshops": [
+      {
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ]
+      }
+    ]
+  },
+  "highlightsItemInvalid": {
+    "workshops": [
+      {
+        "highlights": [
+          null
+        ]
+      }
+    ]
+  },
+  "keywordsValid": {
+    "workshops": [
+      {
+        "keywords": []
+      }
+    ]
+  },
+  "keywordsInvalid": {
+    "keywords": [
+      {
+        "keywords": null
+      }
+    ]
+  },
+  "keywordsItemValid": {
+    "workshops": [
+      {
+        "keywords": [
+          "GoogleMaps"
+        ]
+      }
+    ]
+  },
+  "keywordsItemInvalid": {
+    "workshops": [
+      {
+        "keywords": [
+          null
+        ]
+      }
+    ]
+  },
+  "startDateValid": {
+    "workshops": [
+      {
+        "startDate": "2015-08-24"
+      }
+    ]
+  },
+  "startDateValid2": {
+    "workshops": [
+      {
+        "startDate": "2015-08"
+      }
+    ]
+  },
+  "startDateValid3": {
+    "workshops": [
+      {
+        "startDate": "2015"
+      }
+    ]
+  },
+  "startDateInvalid": {
+    "workshops": [
+      {
+        "startDate": null
+      }
+    ]
+  },
+  "endDateValid": {
+    "workshops": [
+      {
+        "endDate": "2016-08-24"
+      }
+    ]
+  },
+  "endDateValid2": {
+    "workshops": [
+      {
+        "endDate": "2016-08"
+      }
+    ]
+  },
+  "endDateValid3": {
+    "workshops": [
+      {
+        "endDate": "2016"
+      }
+    ]
+  },
+  "endDateInvalid": {
+    "workshops": [
+      {
+        "endDate": null
+      }
+    ]
+  },
+  "urlValid": {
+    "workshops": [
+      {
+        "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+      }
+    ]
+  },
+  "urlInvalid": {
+    "workshops": [
+      {
+        "url": null
+      }
+    ]
+  },
+  "contributionsValid": {
+    "workshops": [
+      {
+        "contributions": []
+      }
+    ]
+  },
+  "contributionsInvalid": {
+    "workshops": [
+      {
+        "contributions": null
+      }
+    ]
+  },
+  "contributionsItemValid": {
+    "workshops": [
+      {
+        "contributions": [
+          "Won award at AIHacks 2016"
+        ]
+      }
+    ]
+  },
+  "contributionsItemInvalid": {
+    "workshops": [
+      {
+        "contributions": [
+          null
+        ]
+      }
+    ]
+  }
+}

@@ -595,6 +595,67 @@
         }
       }
     },
+    "workshops": {
+      "type": "array",
+      "description": "Workshops and conferences that you have attended or organized",
+      "additionalItems": false,
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "e.g. 4th International Conference on Photoelectrochemistry"
+          },
+          "location": {
+            "type": "string",
+            "description": "e.g. Uppsala, Sweden"
+          },
+          "summary": {
+            "type": "string",
+            "description": "Short summary of the workshop/conference. e.g. Collated works of 2017."
+          },
+          "highlights": {
+            "type": "array",
+            "description": "Specify multiple features",
+            "additionalItems": false,
+            "items": {
+              "type": "string",
+              "description": "e.g. Directs you close but not quite there"
+            }
+          },
+          "keywords": {
+            "type": "array",
+            "description": "Specify special elements involved",
+            "additionalItems": false,
+            "items": {
+              "type": "string",
+              "description": "e.g. AngularJS"
+            }
+          },
+          "startDate": {
+            "$ref": "#/definitions/iso8601"
+          },
+          "endDate": {
+            "$ref": "#/definitions/iso8601"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "e.g. http://www.computer.org/csdl/mags/co/1996/10/rx069-abs.html"
+          },
+          "contributions": {
+            "type": "array",
+            "description": "Specify your contributions or role at this workshop/conference",
+            "additionalItems": false,
+            "items": {
+              "type": "string",
+              "description": "e.g. Talk, Poster, Attendee, Organizer"
+            }
+          }
+        }
+      }
+    },
     "meta": {
       "type": "object",
       "description": "The schema version and any other tooling configuration lives here",

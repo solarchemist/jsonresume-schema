@@ -1,0 +1,216 @@
+{
+  "projectsScientificValid": {
+    "projectsScientific": []
+  },
+  "projectsScientificInvalid": {
+    "projectsScientific": null
+  },
+  "nameValid": {
+    "projectsScientific": [
+      {
+        "name": "Miss Direction"
+      }
+    ]
+  },
+  "nameInvalid": {
+    "projectsScientific": [
+      {
+        "name": null
+      }
+    ]
+  },
+  "descriptionValid": {
+    "projectsScientific": [
+      {
+        "description": "A mapping engine that misguides you"
+      }
+    ]
+  },
+  "descriptionInvalid": {
+    "projectsScientific": [
+      {
+        "description": null
+      }
+    ]
+  },
+  "highlightsValid": {
+    "projectsScientific": [
+      {
+        "highlights": []
+      }
+    ]
+  },
+  "highlightsInvalid": {
+    "projectsScientific": [
+      {
+        "highlights": null
+      }
+    ]
+  },
+  "highlightsItemValid": {
+    "projectsScientific": [
+      {
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ]
+      }
+    ]
+  },
+  "highlightsItemInvalid": {
+    "projectsScientific": [
+      {
+        "highlights": [
+          null
+        ]
+      }
+    ]
+  },
+  "keywordsValid": {
+    "projectsScientific": [
+      {
+        "keywords": []
+      }
+    ]
+  },
+  "keywordsInvalid": {
+    "keywords": [
+      {
+        "keywords": null
+      }
+    ]
+  },
+  "keywordsItemValid": {
+    "projectsScientific": [
+      {
+        "keywords": [
+          "GoogleMaps"
+        ]
+      }
+    ]
+  },
+  "keywordsItemInvalid": {
+    "projectsScientific": [
+      {
+        "keywords": [
+          null
+        ]
+      }
+    ]
+  },
+  "startDateValid": {
+    "projectsScientific": [
+      {
+        "startDate": "2015-08-24"
+      }
+    ]
+  },
+  "startDateValid2": {
+    "projectsScientific": [
+      {
+        "startDate": "2015-08"
+      }
+    ]
+  },
+  "startDateValid3": {
+    "projectsScientific": [
+      {
+        "startDate": "2015"
+      }
+    ]
+  },
+  "startDateInvalid": {
+    "projectsScientific": [
+      {
+        "startDate": null
+      }
+    ]
+  },
+  "endDateValid": {
+    "projectsScientific": [
+      {
+        "endDate": "2016-08-24"
+      }
+    ]
+  },
+  "endDateValid2": {
+    "projectsScientific": [
+      {
+        "endDate": "2016-08"
+      }
+    ]
+  },
+  "endDateValid3": {
+    "projectsScientific": [
+      {
+        "endDate": "2016"
+      }
+    ]
+  },
+  "endDateInvalid": {
+    "projectsScientific": [
+      {
+        "endDate": null
+      }
+    ]
+  },
+  "rolesValid": {
+    "projectsScientific": [
+      {
+        "roles": []
+      }
+    ]
+  },
+  "rolesInvalid": {
+    "keywords": [
+      {
+        "roles": null
+      }
+    ]
+  },
+  "rolesItemValid": {
+    "projectsScientific": [
+      {
+        "roles": [
+          "Team lead"
+        ]
+      }
+    ]
+  },
+  "rolesItemInvalid": {
+    "projectsScientific": [
+      {
+        "roles": [
+          null
+        ]
+      }
+    ]
+  },
+  "entityValid": {
+    "projectsScientific": [
+      {
+        "entity": "Smoogle"
+      }
+    ]
+  },
+  "entityInvalid": {
+    "projectsScientific": [
+      {
+        "entity": null
+      }
+    ]
+  },
+  "typeValid": {
+    "projectsScientific": [
+      {
+        "type": "application"
+      }
+    ]
+  },
+  "typeInvalid": {
+    "projectsScientific": [
+      {
+        "type": null
+      }
+    ]
+  }
+}
