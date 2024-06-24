@@ -1,0 +1,18 @@
+{
+  "footerValid": {
+    "footer": {}
+  },
+  "footerInvalid": {
+    "footer": null
+  },
+  "githashValid": {
+    "footer": {
+      "githash": "f6de12a65663ec0702fdc4a44fa2f23e27bb07cc"
+    }
+  },
+  "githashInvalid": {
+    "githash": {
+      "name": null
+    }
+  }
+}

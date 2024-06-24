@@ -656,6 +656,16 @@
         }
       }
     },
+    "footer": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "githash": {
+          "type": "string",
+          "description": "e.g. f6de12a65663ec0702fdc4a44fa2f23e27bb07cc"
+        }
+      }
+    },
     "meta": {
       "type": "object",
       "description": "The schema version and any other tooling configuration lives here",
